@@ -46,3 +46,10 @@ Websites:
 💻Website: AlexTheAnalyst.com                              
 💾GitHub: https://github.com/AlexTheAnalyst                                   
 📱Instagram: @Alex_The_Analyst                     
+
+# Configuration with GitHub
+Go to **Setting -> Applications (Integrations)**
+
+[How to Integrate Databricks with GitHub Repos (Git Folders) | Step-by-Step Tutorial](https://www.youtube.com/watch?v=uljYTx7nzy8)
+
+
