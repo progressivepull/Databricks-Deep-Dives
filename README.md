@@ -50,6 +50,8 @@ Websites:
 # Configuration with GitHub
 Go to **Setting -> Applications (Integrations)**
 
+![install_databricks_apps.png](https://github.com/progressivepull/Resources/blob/main/Databricks/install_databricks_apps.png)
+
 [How to Integrate Databricks with GitHub Repos (Git Folders) | Step-by-Step Tutorial](https://www.youtube.com/watch?v=uljYTx7nzy8)
 
 
