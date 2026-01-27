@@ -1,8 +1,12 @@
+# Alex The Analysis (YouTube)
+
 * In this video we are diving into Databricks! We will get hands-on and learn how to Work with our data, use SQL Editor and Notebooks, Build Dashboards, and use AI with our Databases.
 
-Get a Databricks Free Account Here: http://signup.databricks.com/?provide...             
+Get a Databricks Free Account Here:         
+[Alex Databricks](https://login.databricks.com/signup?provider=DB_FREE_TIER&utm_source=youtube&utm_medium=video&utm_campaign=AlextheAnalyst&tuuid=11b54fe5-db8a-4a9c-bb33-d28663bc920c&intent=SIGN_UP&dbx_source=direct&rl_aid=d576f300-11f2-44d3-9c9b-f3a8d20f74ce&sisu_state=eyJsZWdhbFRleHRTZWVuIjp7Ii9zaWdudXAiOnsidG9zIjp0cnVlLCJwcml2YWN5Ijp0cnVlLCJjb3Jwb3JhdGVFbWFpbFNoYXJpbmciOnRydWV9fX0%3D)            
 
-Get the data here: https://github.com/AlexTheAnalyst/Dat...                          
+Get the data here:          
+[GitHub](https://github.com/AlexTheAnalyst/DatabricksSeries)           
 
 ____________________________________________ 
 
@@ -29,7 +33,7 @@ Tableau A-Z - http://bit.ly/385lYvN
 Please note I may earn a small commission for any purchase through these links - Thanks for supporting the channel!
 ____________________________________________ 
 
-BECOME A MEMBER - 
+# BECOME A MEMBER 
 
 Want to support the channel? Consider becoming a member! I do Monthly Livestreams and you get some awesome Emoji's to use in chat and comments!
 
