@@ -20,4 +20,18 @@ Go to **Setting -> Applications (Integrations)**
 Click on the following icon to commit to GitHub
 ![git_commit.png](https://github.com/progressivepull/Resources/blob/main/Databricks/git_commit.png)
 
+# Questions ask from Copilot
+
+* [How install Databricks with Docker Overview](./IDEAS/install_with_docker.md)
+
+# Terms
+
+* [Catalog](./TERMS/catalog.md)
+
+
+# YouTube Tutorials
+
+* [Alex_The_Analysis](./YOUTUBE/Alex_The_Analysis.md)
+
+
 
