@@ -1,5 +1,3 @@
-# Interface Overview
-
 [**Learn Databricks in Under 2
 Hours**](https://www.youtube.com/watch?v=CoqZTt528ew)
 
@@ -14,12 +12,13 @@ GitHub**](https://github.com/AlexTheAnalyst/DatabricksSeries)
 - Covers platform overview, data import, SQL, notebooks, AI tools, and a
   full end-to-end project.
 
-<img src="./media/image1.png" style="width:3.4207in;height:2.54615in" />
+<img src="./media/image1.png"
+style="width:6.00208in;height:4.46758in" />
 
 Data Ingestions
 
 <img src="./media/image2.png"
-style="width:3.64265in;height:2.06923in" />
+style="width:6.60297in;height:3.75085in" />
 
 Dash boards
 
@@ -48,7 +47,7 @@ Dash boards
   - Transformation (ETL)
 
 <img src="./media/image3.png"
-style="width:6.49306in;height:2.27778in" />
+style="width:6.93681in;height:2.43345in" />
 
 **ETL** stands for **Extract, Transform, Load**. It is the three-step
 process used to move data from various sources into a single,
@@ -94,8 +93,6 @@ business tools can use it to create reports and charts.
 
 - All workflows exist in one unified platform.
 
-------------------------------------------------------------------------
-
 **🆓 Databricks Free Edition**
 
 - Sign up using Google, Microsoft, or email.
@@ -116,19 +113,19 @@ business tools can use it to create reports and charts.
 
 **🏢 Core Platform Sections**
 
-**1️⃣
-Workspace**
+**1️⃣ Workspace**
 
-<img src="./media/image4.png" style="width:6.5in;height:2.18472in" />
+<img src="./media/image4.png"
+style="width:7.15878in;height:2.40614in" />
 
-**GitHub**
+**Git Hub**
 
-<img src="./media/image5.png" style="width:6.5in;height:1.92847in" />
+<img src="./media/image5.png" style="width:7.2549in;height:2.15244in" />
 
-<img src="./media/image6.png" style="width:6.5in;height:3.94653in"
+<img src="./media/image6.png" style="width:7.21102in;height:4.37823in"
 alt="Graphical user interface, text AI-generated content may be incorrect." />
 
-<img src="./media/image7.png" style="width:6.5in;height:3.29167in"
+<img src="./media/image7.png" style="width:7.09933in;height:3.59517in"
 alt="Graphical user interface, text, application AI-generated content may be incorrect." />
 
 - Main collaboration environment.
@@ -137,7 +134,7 @@ alt="Graphical user interface, text, application AI-generated content may be inc
 
 **2️⃣ Catalog**
 
-<img src="./media/image8.png" style="width:4.3961in;height:3.42456in"
+<img src="./media/image8.png" style="width:6.64988in;height:5.18025in"
 alt="Graphical user interface AI-generated content may be incorrect." />
 
 - Similar to a database schema.
@@ -154,7 +151,7 @@ alt="Graphical user interface AI-generated content may be incorrect." />
 
 **3️⃣ Jobs & Pipelines (Automation)**
 
-<img src="./media/image9.png" style="width:6.5in;height:2.56806in"
+<img src="./media/image9.png" style="width:6.88022in;height:2.71827in"
 alt="Graphical user interface, application, Teams AI-generated content may be incorrect." />
 
 - **Ingestion pipeline** → Extract data.
@@ -259,7 +256,8 @@ queries, or pipelines on a schedule or in response to an event.
 
 **4️⃣ Compute**
 
-<img src="./media/image10.png" style="width:6.5in;height:1.92014in" />
+<img src="./media/image10.png"
+style="width:7.21245in;height:2.1306in" />
 
 - Free Edition includes:
 
@@ -277,7 +275,7 @@ queries, or pipelines on a schedule or in response to an event.
 **🔌 Marketplace & Integrations**
 
 <img src="./media/image11.png"
-style="width:6.38023in;height:4.87379in" />
+style="width:6.90723in;height:5.27636in" />
 
 - Connect easily to tools like:
 
@@ -300,7 +298,7 @@ style="width:6.38023in;height:4.87379in" />
 
 **💻 SQL & Data Analysis**
 
-<img src="./media/image12.png" style="width:6.5in;height:1.70764in"
+<img src="./media/image12.png" style="width:7.19697in;height:1.89074in"
 alt="Graphical user interface, text, application, email AI-generated content may be incorrect." />
 
 **SQL Editor**
@@ -314,7 +312,7 @@ alt="Graphical user interface, text, application, email AI-generated content may
 **Query Management**
 
 <img src="./media/image13.png"
-style="width:3.26948in;height:3.15081in" />
+style="width:6.94952in;height:6.69728in" />
 
 - Save and organize queries inside Databricks.
 
@@ -336,7 +334,8 @@ style="width:3.26948in;height:3.15081in" />
 
 **🤖 AI Features**
 
-<img src="./media/image14.png" style="width:6.5in;height:3.69653in" />
+<img src="./media/image14.png"
+style="width:7.11781in;height:4.04788in" />
 
 **Genie (AI Query Tool)**
 
@@ -364,7 +363,7 @@ style="width:3.26948in;height:3.15081in" />
 
 **🔔 Alerts**
 
-<img src="./media/image15.png" style="width:3.85836in;height:1.95968in"
+<img src="./media/image15.png" style="width:6.93613in;height:3.5229in"
 alt="A screenshot of a computer AI-generated content may be incorrect." />
 
 - Create condition-based triggers.
@@ -375,7 +374,7 @@ alt="A screenshot of a computer AI-generated content may be incorrect." />
 
 **📥 Data Ingestion**
 
-<img src="./media/image16.png" style="width:3.54865in;height:2.78538in"
+<img src="./media/image16.png" style="width:6.71041in;height:5.26709in"
 alt="A screenshot of a computer AI-generated content may be incorrect." />
 
 - Upload files (CSV, JSON).
@@ -445,7 +444,7 @@ It’s mainly used in **Databricks Mosaic AI** workflows.
 
 - Q&A over structured or unstructured data
 
-<img src="./media/image17.png" style="width:3.54584in;height:3.04042in"
+<img src="./media/image17.png" style="width:6.5312in;height:5.60025in"
 alt="A screenshot of a computer AI-generated content may be incorrect." />
 
 **Experiments**
@@ -455,12 +454,12 @@ alt="A screenshot of a computer AI-generated content may be incorrect." />
 - Databricks Experiments are used to track, organize, and **compare
   machine learning** runs.
 
-- They are part of MLflow, which is built into Databricks.
+- They are part of ML flow, which is built into Databricks.
 
 - Think of Experiments as a structured lab notebook for ML projects.
 
 <img src="./media/image18.png"
-style="width:4.5825in;height:3.63391in" />
+style="width:6.52067in;height:5.17087in" />
 
 ------------------------------------------------------------------------
 
@@ -495,5 +494,3 @@ style="width:4.5825in;height:3.63391in" />
 - Strong focus on collaboration and automation.
 
 - AI integration significantly speeds up workflows.
-
- ## [Context](./../context.md)
