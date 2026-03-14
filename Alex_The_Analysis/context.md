@@ -5,7 +5,7 @@
 YouTube Databricks Tutorials
 [Learn Databricks in Under 2 Hours - Alex The Analyst - Youtube](https://www.youtube.com/watch?v=CoqZTt528ew&t=919s)
 
-Get a Databricks Free Account Here:         
+Get a Databricks Free Account Here:                             
 [Alex Databricks](https://login.databricks.com/signup?provider=DB_FREE_TIER&utm_source=youtube&utm_medium=video&utm_campaign=AlextheAnalyst&tuuid=11b54fe5-db8a-4a9c-bb33-d28663bc920c&intent=SIGN_UP&dbx_source=direct&rl_aid=d576f300-11f2-44d3-9c9b-f3a8d20f74ce&sisu_state=eyJsZWdhbFRleHRTZWVuIjp7Ii9zaWdudXAiOnsidG9zIjp0cnVlLCJwcml2YWN5Ijp0cnVlLCJjb3Jwb3JhdGVFbWFpbFNoYXJpbmciOnRydWV9fX0%3D)            
 
 Get the data here:          
