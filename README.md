@@ -4,11 +4,12 @@
 
 # Contents
 * [Alex The Analysis](https://github.com/progressivepull/Databricks-Deep-Dives/blob/main/YouTube_Alex_The_Analysis.md)
-* [Delta Live Tables: Building Reliable ETL Pipelines with Azure Databricks](https://www.youtube.com/watch?v=nh-vEj_285M)
+
 
 # Learn Databricks
 * [Learn Databricks in Under 2 Hours |Alex The Analyst | YouTube ](https://www.youtube.com/watch?v=CoqZTt528ew&t=691s)
 * [AlexTheAnalyst/DatabricksSeries | GitHub ](https://github.com/AlexTheAnalyst/DatabricksSeries)
+* [Delta Live Tables: Building Reliable ETL Pipelines with Azure Databricks](https://www.youtube.com/watch?v=nh-vEj_285M)
 
 # Configuration with GitHub
 Go to **Setting -> Applications (Integrations)**
