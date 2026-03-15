@@ -13,6 +13,7 @@
 * [DataBeli | YouTube](https://www.youtube.com/@DataBeli/playlists)
 
 * [Delta Live Tables: Building Reliable ETL Pipelines with Azure Databricks](https://www.youtube.com/watch?v=nh-vEj_285M)
+    - [Databricks Lakeflow Declarative Pipelines Demo with SQL, Pyspark, DQ and E2E ETL | DataBeli | YouTube ](https://www.youtube.com/watch?v=HkScZkxHIns)
 
 # Configuration with GitHub
 Go to **Setting -> Applications (Integrations)**
