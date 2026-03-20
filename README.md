@@ -1,4 +1,4 @@
-\# Databricks
+# Databricks
 
 [Free Edition](https://www.databricks.com/learn/free-edition)
 
