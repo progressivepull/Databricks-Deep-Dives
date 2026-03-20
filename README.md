@@ -34,6 +34,38 @@ Click on the following icon to commit to GitHub
 
 * [Catalog](./TERMS/catalog.md)
 
+  What is DBFS ?
+* A distributed file system that abstracts storage infrastructure in Databricks
+* Build on the cloud storage (such as Azure Data Lake Storage, Amazon S3, or Google Cloud Storage)
+
+Key Feature of DBFS
+* Unified interface
+* Seamless integration
+* Access to cloud storage
+* Scalable and distributed
+* Data persistence
+* Multiple layers
+* Workspace storage
+
+
+DBFS Path Structure
+* Absolute paths: begin with /
+  - Example: /mnt/data/sample.csv
+
+* Relative paths: relative to the current working directory
+
+* DBFS prefix: access programmatically using the dbfs:/ prefix
+  - Example: dbfs:/mnt/data/sample.csv
+
+DBFS Use Cases
+* Data loading
+* Data writing
+* Backup and archiving
+* Collaboration
+
+
+
+
 
 # YouTube Tutorials
 
