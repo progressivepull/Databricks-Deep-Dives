@@ -13,9 +13,10 @@ Get the data here:
 
 ____________________________________________ 
 
-# Content
-* [Overview 0m to 11m](./overview/overview.md)
-* [Data Ingestion Queue 11m to 22m](./data_ingestion_queue/data_ingestion_queue.md)
+# Step by Step Guides
+* [Overview 0 minutes to 11 minutes](./overview/overview.md)
+* [Data Ingestion Queue 11 minutes to 22 minutes](./data_ingestion_queue/data_ingestion_queue.md)
+* [Visualization 23 minutes to 43 minutes](./visualization/visualization.md)
 
 
 
