@@ -121,7 +121,7 @@ domain.
 
 <img src="./media/image13.png" style="width:6.5in;height:3.48264in" />
 
-<img src="./media/image14.png" style="width:6.5in;height:2.65694in" />\
+<img src="./media/image14.png" style="width:6.5in;height:2.65694in" />  
 <img src="./media/image15.png" style="width:6.5in;height:3.87569in" />
 
 - “Show all pickup hours and counts” → better chart
@@ -250,7 +250,11 @@ style="width:2.66975in;height:2.1532in" />
 
   - Convert between languages (e.g., Python → SQL)
 
+<img src="./media/image26.png" style="width:6.5in;height:2.9in" />
+
 - Useful for **data exploration and transformation**.
+
+------------------------------------------------------------------------
 
 **AI in Dashboards**
 
@@ -258,13 +262,36 @@ style="width:2.66975in;height:2.1532in" />
 
   - Example: “Create a card with average fare”
 
-  - Example: “Create a line chart of pickup counts”
+<img src="./media/image27.png" style="width:6.5in;height:4.15556in"
+alt="Graphical user interface, application AI-generated content may be incorrect." />
+
+<img src="./media/image28.png" style="width:2.84737in;height:3.43768in"
+alt="Graphical user interface, application AI-generated content may be incorrect." />
+
+- Example: “Create a line chart of pickup counts”
+
+> <img src="./media/image29.png" style="width:6.5in;height:3.37569in"
+> alt="A screenshot of a computer AI-generated content may be incorrect." />
+>
+> <img src="./media/image30.png" style="width:2.92376in;height:3.48629in"
+> alt="Graphical user interface, chart AI-generated content may be incorrect." />
 
 - Can modify charts with natural language:
 
   - Change granularity (daily → hourly)
 
-  - Add labels or adjust axes
+<img src="./media/image31.png" style="width:6.5in;height:3.32708in" />
+
+<img src="./media/image32.png" style="width:6.5in;height:3.14514in"
+alt="Graphical user interface, chart AI-generated content may be incorrect." />
+
+- Add labels or adjust axes
+
+<img src="./media/image33.png" style="width:6.5in;height:2.40417in"
+alt="Chart, line chart AI-generated content may be incorrect." />
+
+<img src="./media/image34.png" style="width:6.5in;height:3.07986in"
+alt="A screenshot of a computer AI-generated content may be incorrect." />
 
 - Still allows **manual customization after generation**.
 
