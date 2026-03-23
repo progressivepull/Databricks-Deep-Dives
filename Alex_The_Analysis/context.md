@@ -17,6 +17,9 @@ ____________________________________________
 * [Overview 0 minutes to 11 minutes](./overview/overview.md)
 * [Data Ingestion Queue 11 minutes to 22 minutes](./data_ingestion_queue/data_ingestion_queue.md)
 * [Visualization 23 minutes to 43 minutes](./visualization/visualization.md)
+* [Genie 43 minutes to 60 minutes](./genie/genie.md)
+
+
 
 
 
