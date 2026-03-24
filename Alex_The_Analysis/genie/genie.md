@@ -319,3 +319,5 @@ alt="A screenshot of a computer AI-generated content may be incorrect." />
 
 - However, **clear prompts and user understanding** still matter for
   best results.
+
+# [Content](./../content.md)

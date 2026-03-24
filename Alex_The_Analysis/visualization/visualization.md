@@ -267,3 +267,5 @@ alt="Graphical user interface, text, application AI-generated content may be inc
 - Clean formatting and thoughtful naming improve dashboard usability.
 
 - Understanding dataset relationships is crucial for proper filtering.
+
+# [Content](./../content.md)
