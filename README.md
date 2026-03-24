@@ -3,7 +3,8 @@
 [Free Edition](https://www.databricks.com/learn/free-edition)
 
 # Contents
-* [Alex The Analysis](https://github.com/progressivepull/Databricks-Deep-Dives/blob/main/Alex_The_Analysis/context.md)
+* [Alex The Analysis](./main/Alex_The_Analysis/content.md)
+* [Complete Guide to Databricks for Data Engineering](./main/Alex_The_Analysis/content.md)
 
 
 # Configuration with GitHub
