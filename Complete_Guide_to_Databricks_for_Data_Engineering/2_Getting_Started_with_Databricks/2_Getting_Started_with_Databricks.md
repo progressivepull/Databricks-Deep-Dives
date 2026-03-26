@@ -1,4 +1,6 @@
-# 2.1 Understanding the Databricks File System (DBFS)
+# 2. Getting Started with Databricks
+
+## 2.1 Understanding the Databricks File System (DBFS)
 
 **Understanding Databricks File System (DBFS)**
 
@@ -314,7 +316,7 @@ Are you trying to set up **relative imports** for a Python project, or
 are you looking for the best way to reference **data files** in a
 production pipeline?
 
-# 2.2 Load sample data DBFS
+## 2.2 Load sample data DBFS
 
 - After understanding **DBFS (Databricks File System)**, the next step
   is to **upload sample data** for analysis, cleaning, and processing.
@@ -371,7 +373,7 @@ production pipeline?
 DBFS acts as centralized storage, and you can upload data either via the
 UI or notebook, choosing where it’s stored.
 
-# 2.3 Browse and explore in DBFS
+## 2.3 Browse and explore in DBFS
 
 <img src="./media/image8.png" style="width:1.15832in;height:1.80393in"
 alt="Graphical user interface, text, application AI-generated content may be incorrect." />
