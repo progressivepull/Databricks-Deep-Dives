@@ -1,4 +1,6 @@
-# 3.1 Understand DataFrames
+# 3. Read Data with Databricks
+
+## 3.1 Understand DataFrames
 
 **What is a DataFrame in Spark?**
 
@@ -30,7 +32,7 @@
 - **Overall:** Provides a high-level API for processing large-scale data
   efficiently
 
-# **3.**2 Read a CSV file in Databricks
+## **3.**2 Read a CSV file in Databricks
 
 - Using Notebooks with Linux
   commands<img src="./media/image1.png" style="width:6.5in;height:2.55486in"
@@ -101,7 +103,7 @@ alt="Graphical user interface AI-generated content may be incorrect." />
   inferSchema=True for correct data types → view data with show() or
   display()
 
-# 3.3 Read a CVS file in Databricks
+## 3.3 Read a CVS file in Databricks
 
 **Custom schema definition:** Use pyspark.sql.types (e.g., StructType,
 StructField, StringType, IntegerType) to define schema manually
@@ -146,7 +148,7 @@ alt="Graphical user interface, text, application AI-generated content may be inc
 **Key takeaway:** Defining your own schema improves control, accuracy,
 and performance when reading data in Databricks
 
-# 3.4 Read a JSON file in Databricks
+## 3.4 Read a JSON file in Databricks
 
 **Create notebook:** Set up a new notebook (e.g., *Product Analysis*)
 
@@ -200,7 +202,7 @@ alt="Graphical user interface, text, application, email AI-generated content may
 automatic schema detection, but custom schemas can still be applied for
 control and consistency
 
-# 3.5 Read a Parquets file in Databricks
+## 3.5 Read a Parquets file in Databricks
 
 **Create notebook:** Set up a new notebook (e.g., *Transaction
 Analysis*)
@@ -245,7 +247,7 @@ alt="Graphical user interface, text, application, email AI-generated content may
 - Manual schema definition is optional but allows full control over data
   types
 
-# 3.6 Handle nested JSON data in Databricks
+## 3.6 Handle nested JSON data in Databricks
 
 **Nested JSON concept:** JSON files can contain other JSON objects
 (hierarchical structure)
