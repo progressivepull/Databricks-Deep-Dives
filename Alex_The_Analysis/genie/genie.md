@@ -1,3 +1,5 @@
+# **Genie**
+
 **Databricks Genie (Natural Language AI)**
 
 <img src="./media/image1.png" style="width:6.5in;height:2.51389in" />

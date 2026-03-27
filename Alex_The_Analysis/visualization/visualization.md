@@ -1,3 +1,5 @@
+# **Visualization**
+
 **🔹 Creating Dashboards in Databricks**
 
 - Each Bar Chart, Pie Graph, etc... is called Visualization.
