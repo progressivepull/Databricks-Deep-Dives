@@ -141,7 +141,7 @@ alt="Graphical user interface, text, application AI-generated content may be inc
 
 ``` sql
 
-spark.sql("SELECT \* FROM view_name")
+spark.sql("SELECT * FROM view_name")
 
 ```
 
@@ -421,6 +421,8 @@ DROP TABLE table_name
 
 - Specify a path while writing:
 
+**Python**
+
 ``` python
 
 df.write.mode("overwrite")  
@@ -435,9 +437,11 @@ df.write.mode("overwrite")
 
 - Use:
 
+**Python**
+
 ``` python
 
-spark.sql("SELECT \* FROM customer_ext_table")
+spark.sql("SELECT * FROM customer_ext_table")
 
 ```
 
@@ -447,6 +451,8 @@ alt="Graphical user interface, application, table AI-generated content may be in
 **Inspecting Table Details**
 
 - Use:
+
+**SQL**
 
 ``` sql
 
@@ -477,3 +483,6 @@ alt="Graphical user interface, text, application, email AI-generated content may
 
 **Bottom line:** External tables give you **control and safety over your
 data**, while still allowing SQL-based access through Databricks.
+
+
+# [Context](./../context.md)
