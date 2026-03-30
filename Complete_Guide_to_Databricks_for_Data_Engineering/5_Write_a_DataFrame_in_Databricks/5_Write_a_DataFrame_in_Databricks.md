@@ -183,9 +183,8 @@ alt="Graphical user interface, text, application, email AI-generated content may
 
 **Output:**
 
-**Python**
 
-``` python
+``` txt
 Output:  
 customer_type=VIP  
 customer_type=Premium  
