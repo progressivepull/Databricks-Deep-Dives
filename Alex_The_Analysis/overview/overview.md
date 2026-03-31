@@ -497,5 +497,5 @@ style="width:6.52067in;height:5.17087in" />
 
 - AI integration significantly speeds up workflows.
 
-## [Context](./../context.md)
+# [Content](./../content.md)
 
