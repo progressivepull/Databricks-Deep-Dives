@@ -485,4 +485,4 @@ alt="Graphical user interface, text, application, email AI-generated content may
 data**, while still allowing SQL-based access through Databricks.
 
 
-# [Context](./../context.md)
+# [Content](./../content.md)

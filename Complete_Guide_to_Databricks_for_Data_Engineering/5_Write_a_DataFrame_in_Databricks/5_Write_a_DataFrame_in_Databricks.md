@@ -253,4 +253,4 @@ df.write
 Partitioning organizes data into folders by column values, making
 filtering faster and more efficient—especially for large datasets.
 
-# [Context](./../context.md)
+# [Content](./../content.md)

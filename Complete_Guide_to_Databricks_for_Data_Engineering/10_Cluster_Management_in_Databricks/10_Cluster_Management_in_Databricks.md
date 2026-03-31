@@ -227,4 +227,4 @@ Job clusters are ideal for **automated, scheduled workloads** because
 they are **efficient, isolated, and fully managed**, making them more
 cost-effective than interactive clusters for production jobs.
 
-# [Context](./../context.md)
+# [Content](./../content.md)

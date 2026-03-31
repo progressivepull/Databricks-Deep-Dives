@@ -67,3 +67,5 @@ streamline data pipelines and improves efficiency.
 
 Notebook scheduling in Databricks enables **automated, reliable, and
 scalable data pipeline execution** with minimal manual effort.
+
+# [Content](./../content.md)

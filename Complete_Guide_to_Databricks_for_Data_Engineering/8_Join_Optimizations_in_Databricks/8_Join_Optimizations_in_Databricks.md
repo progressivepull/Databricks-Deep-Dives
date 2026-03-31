@@ -329,4 +329,4 @@ alt="Diagram AI-generated content may be incorrect." />
 
 - Trade-off: **initial cost vs long-term performance gain**.
 
-# [Context](./../context.md)
+# [Content](./../content.md)

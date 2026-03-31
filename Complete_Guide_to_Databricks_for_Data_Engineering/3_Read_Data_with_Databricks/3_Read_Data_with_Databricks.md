@@ -297,4 +297,4 @@ alt="Graphical user interface, text, application AI-generated content may be inc
 - Nested JSON is read the same way as regular JSON, but requires
   additional handling (dot notation) to access nested fields
 
-# [Context](./../context.md)
+# [Content](./../content.md)

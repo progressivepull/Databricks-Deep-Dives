@@ -3,8 +3,8 @@
 [Free Edition](https://www.databricks.com/learn/free-edition)
 
 # Contents
-* [Alex The Analysis](./Alex_The_Analysis/context.md)
-* [Complete Guide to Databricks for Data Engineering](./Complete_Guide_to_Databricks_for_Data_Engineering/context.md)
+* [Alex The Analysis](./Alex_The_Analysis/content.md)
+* [Complete Guide to Databricks for Data Engineering](./Complete_Guide_to_Databricks_for_Data_Engineering/content.md)
 
 
 # Configuration with GitHub
