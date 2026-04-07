@@ -11,8 +11,9 @@
 * [9. Scheduling the Notebook](./9_Scheduling_the_Notebook/9_Scheduling_the_Notebook.md)
 * [10. Cluster Management in Databricks](./10_Cluster_Management_in_Databricks/10_Cluster_Management_in_Databricks.md)
 * [11. Workflows in Databricks](./11_Workflows_in_Databricks/11_Workflows_in_Databricks.md)
-
-
+* [12. dbutils in Databricks](./12_dbutils_in_Databricks/12_dbutils_in_Databricks.md)
+* [13. Unity Catalog in Databricks](./13_Unity_Catalog_in_Databricks/13_Unity_Catalog_in_Databricks.md)
+* [14. Capstone Project](./14_Capstone_Project/14_Capstone_Project.md)
 
 
 # [Main Content](./../README.md)
