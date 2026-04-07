@@ -1,4 +1,4 @@
-**14. Capstone Project**
+# **14. Capstone Project**
 
 **14.1 Project use case**
 

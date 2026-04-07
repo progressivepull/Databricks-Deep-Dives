@@ -1,4 +1,4 @@
-**12. dbutils in Databricks**
+# **12. dbutils in Databricks**
 
 12.1 What is dbutils in Databricks?
 

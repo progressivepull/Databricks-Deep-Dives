@@ -1,4 +1,4 @@
-**13. Unity Catalog in Databricks**
+# **13. Unity Catalog in Databricks**
 
 13.1 Understand the Unity Catalog
 
