@@ -20,7 +20,7 @@ Click on the following icon to commit to GitHub
 
 # Questions ask from Copilot
 
-*[How install Databricks with Docker Overview](./IDEAS/install\_with\_docker.md)
+* [How install Databricks with Docker Overview](./IDEAS/install\_with\_docker.md)
 
 # What is DBFS ?
 * A distributed file system that abstracts storage infrastructure in Databricks
