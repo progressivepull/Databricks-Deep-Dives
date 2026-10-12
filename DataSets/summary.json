@@ -1,0 +1,1512 @@
+{
+  "run_at": "20260326_235248",
+  "db": "/kaggle/working/trends.db",
+  "global_max_age_hours": 72,
+  "geo_max_age_hours": 168,
+  "global": {
+    "artists": 10000,
+    "tracks": 9999,
+    "tags": 10000
+  },
+  "geo": {
+    "artists": 581796,
+    "tracks": 1729997
+  },
+  "errors": [],
+  "countries": [
+    {
+      "country": "Afghanistan",
+      "artists": 1277,
+      "tracks": 2837,
+      "status": "ok"
+    },
+    {
+      "country": "\u00c5land Islands",
+      "artists": 1234,
+      "tracks": 2691,
+      "status": "ok"
+    },
+    {
+      "country": "Albania",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Algeria",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "American Samoa",
+      "artists": 361,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Andorra",
+      "artists": 5000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Angola",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Anguilla",
+      "artists": 723,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Antarctica",
+      "artists": 2,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "artists": 3599,
+      "tracks": 10000,
+      "status": "ok"
+    },
+    {
+      "country": "Argentina",
+      "artists": 2000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Armenia",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Aruba",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Australia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Austria",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Azerbaijan",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Bahamas",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Bahrain",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Bangladesh",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Barbados",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Belarus",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Belgium",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Belize",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Benin",
+      "artists": 2026,
+      "tracks": 5240,
+      "status": "ok"
+    },
+    {
+      "country": "Bermuda",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Bhutan",
+      "artists": 1821,
+      "tracks": 4366,
+      "status": "ok"
+    },
+    {
+      "country": "Bolivia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Bonaire, Sint Eustatius and Saba",
+      "artists": 0,
+      "tracks": 0,
+      "status": "unsupported"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Botswana",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Bouvet Island",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Brazil",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "British Indian Ocean Territory",
+      "artists": 56,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Brunei Darussalam",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Bulgaria",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Burkina Faso",
+      "artists": 468,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Burundi",
+      "artists": 56,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Cabo Verde",
+      "artists": 1843,
+      "tracks": 5707,
+      "status": "ok"
+    },
+    {
+      "country": "Cambodia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Cameroon",
+      "artists": 2769,
+      "tracks": 8767,
+      "status": "ok"
+    },
+    {
+      "country": "Canada",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Cayman Islands",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Central African Republic",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Chad",
+      "artists": 573,
+      "tracks": 1410,
+      "status": "ok"
+    },
+    {
+      "country": "Chile",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "China",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Christmas Island",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Cocos (Keeling) Islands",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Colombia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Comoros",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Congo, The Democratic Republic Of The",
+      "artists": 2180,
+      "tracks": 6975,
+      "status": "ok"
+    },
+    {
+      "country": "Congo",
+      "artists": 909,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Cook Islands",
+      "artists": 676,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Costa Rica",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "C\u00f4te d'Ivoire",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Croatia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Cuba",
+      "artists": 1832,
+      "tracks": 5181,
+      "status": "ok"
+    },
+    {
+      "country": "Cura\u00e7ao",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Cyprus",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Czechia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Denmark",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Djibouti",
+      "artists": 475,
+      "tracks": 974,
+      "status": "ok"
+    },
+    {
+      "country": "Dominica",
+      "artists": 1989,
+      "tracks": 6030,
+      "status": "ok"
+    },
+    {
+      "country": "Dominican Republic",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Ecuador",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Egypt",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "El Salvador",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "artists": 330,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Eritrea",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Estonia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Eswatini",
+      "artists": 1405,
+      "tracks": 4738,
+      "status": "ok"
+    },
+    {
+      "country": "Ethiopia",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Falkland Islands (Malvinas)",
+      "artists": 255,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Faroe Islands",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Fiji",
+      "artists": 3068,
+      "tracks": 8465,
+      "status": "ok"
+    },
+    {
+      "country": "Finland",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "France",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "French Guiana",
+      "artists": 1011,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "French Polynesia",
+      "artists": 2735,
+      "tracks": 6978,
+      "status": "ok"
+    },
+    {
+      "country": "French Southern Territories",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Gabon",
+      "artists": 1971,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Gambia",
+      "artists": 1316,
+      "tracks": 2768,
+      "status": "ok"
+    },
+    {
+      "country": "Georgia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Germany",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Ghana",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Gibraltar",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Greece",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Greenland",
+      "artists": 2755,
+      "tracks": 7013,
+      "status": "ok"
+    },
+    {
+      "country": "Grenada",
+      "artists": 2911,
+      "tracks": 8475,
+      "status": "ok"
+    },
+    {
+      "country": "Guadeloupe",
+      "artists": 3293,
+      "tracks": 8190,
+      "status": "ok"
+    },
+    {
+      "country": "Guam",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Guatemala",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Guernsey",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Guinea",
+      "artists": 602,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Guyana",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Haiti",
+      "artists": 1270,
+      "tracks": 2920,
+      "status": "ok"
+    },
+    {
+      "country": "Heard Island and McDonald Islands",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Holy See (Vatican City State)",
+      "artists": 22,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Honduras",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Hong Kong",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Hungary",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Iceland",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "India",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Indonesia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Iran, Islamic Republic of",
+      "artists": 873,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Iraq",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Ireland",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Isle of Man",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Israel",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Italy",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Jamaica",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Japan",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Jersey",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Jordan",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Kazakhstan",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Kenya",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Kiribati",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Korea, Democratic People's Republic of",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Korea, Republic of",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Kuwait",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Lao People's Democratic Republic",
+      "artists": 2462,
+      "tracks": 6567,
+      "status": "ok"
+    },
+    {
+      "country": "Latvia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Lebanon",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Lesotho",
+      "artists": 1963,
+      "tracks": 6383,
+      "status": "ok"
+    },
+    {
+      "country": "Liberia",
+      "artists": 511,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Libya",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Liechtenstein",
+      "artists": 1944,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Lithuania",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Luxembourg",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Macao",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Madagascar",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Malawi",
+      "artists": 3574,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Malaysia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Maldives",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Mali",
+      "artists": 975,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Malta",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Marshall Islands",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Martinique",
+      "artists": 3235,
+      "tracks": 8097,
+      "status": "ok"
+    },
+    {
+      "country": "Mauritania",
+      "artists": 1321,
+      "tracks": 3093,
+      "status": "ok"
+    },
+    {
+      "country": "Mauritius",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Mayotte",
+      "artists": 243,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Mexico",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Micronesia, Federated States of",
+      "artists": 173,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Moldova",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Monaco",
+      "artists": 1876,
+      "tracks": 4253,
+      "status": "ok"
+    },
+    {
+      "country": "Mongolia",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Montenegro",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Montserrat",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Morocco",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Mozambique",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Myanmar",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Namibia",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Nauru",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Nepal",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Netherlands",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "New Caledonia",
+      "artists": 2708,
+      "tracks": 5993,
+      "status": "ok"
+    },
+    {
+      "country": "New Zealand",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Nicaragua",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Niger",
+      "artists": 132,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Nigeria",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Niue",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Norfolk Island",
+      "artists": 112,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "North Macedonia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "artists": 3823,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Norway",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Oman",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Pakistan",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Palestine",
+      "artists": 0,
+      "tracks": 0,
+      "status": "unsupported"
+    },
+    {
+      "country": "Palau",
+      "artists": 954,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Panama",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Papua New Guinea",
+      "artists": 1253,
+      "tracks": 2606,
+      "status": "ok"
+    },
+    {
+      "country": "Paraguay",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Peru",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Philippines",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Pitcairn",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Poland",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Portugal",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Puerto Rico",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Qatar",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "R\u00e9union",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Romania",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Russian Federation",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Rwanda",
+      "artists": 3941,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Saint Barth\u00e9lemy",
+      "artists": 55,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Saint Helena",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "artists": 1435,
+      "tracks": 3446,
+      "status": "ok"
+    },
+    {
+      "country": "Saint Lucia",
+      "artists": 2712,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Saint Martin (French part)",
+      "artists": 590,
+      "tracks": 1312,
+      "status": "ok"
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "artists": 133,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "artists": 1583,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Samoa",
+      "artists": 480,
+      "tracks": 838,
+      "status": "ok"
+    },
+    {
+      "country": "San Marino",
+      "artists": 864,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "artists": 185,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Saudi Arabia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Senegal",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Serbia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Seychelles",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Sierra Leone",
+      "artists": 1130,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Singapore",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Sint Maarten (Dutch part)",
+      "artists": 0,
+      "tracks": 0,
+      "status": "unsupported"
+    },
+    {
+      "country": "Slovakia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Slovenia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Solomon Islands",
+      "artists": 2,
+      "tracks": 2,
+      "status": "ok"
+    },
+    {
+      "country": "Somalia",
+      "artists": 2883,
+      "tracks": 8190,
+      "status": "ok"
+    },
+    {
+      "country": "South Africa",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "South Georgia and the South Sandwich Islands",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "South Sudan",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Spain",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Sri Lanka",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Sudan",
+      "artists": 916,
+      "tracks": 3095,
+      "status": "ok"
+    },
+    {
+      "country": "Suriname",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Svalbard and Jan Mayen",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Sweden",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Switzerland",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Syrian Arab Republic",
+      "artists": 2521,
+      "tracks": 7977,
+      "status": "ok"
+    },
+    {
+      "country": "Taiwan",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Tajikistan",
+      "artists": 1175,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Tanzania, United Republic of",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Thailand",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Timor-Leste",
+      "artists": 724,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Togo",
+      "artists": 1443,
+      "tracks": 3689,
+      "status": "ok"
+    },
+    {
+      "country": "Tokelau",
+      "artists": 11,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Tonga",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Tunisia",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "T\u00fcrkiye",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Turkmenistan",
+      "artists": 314,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "artists": 1794,
+      "tracks": 4635,
+      "status": "ok"
+    },
+    {
+      "country": "Tuvalu",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Uganda",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Ukraine",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "United Arab Emirates",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "United Kingdom",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "United States Minor Outlying Islands",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "United States",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Uruguay",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Uzbekistan",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Vanuatu",
+      "artists": 308,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Venezuela",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Viet Nam",
+      "artists": 3000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Virgin Islands, British",
+      "artists": 1612,
+      "tracks": 4403,
+      "status": "ok"
+    },
+    {
+      "country": "Virgin Islands, U.S.",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Wallis and Futuna",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Western Sahara",
+      "artists": 0,
+      "tracks": 0,
+      "status": "skipped"
+    },
+    {
+      "country": "Yemen",
+      "artists": 834,
+      "tracks": 2055,
+      "status": "ok"
+    },
+    {
+      "country": "Zambia",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    },
+    {
+      "country": "Zimbabwe",
+      "artists": 4000,
+      "tracks": 0,
+      "status": "ok"
+    }
+  ]
+}
