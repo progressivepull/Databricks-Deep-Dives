@@ -4,12 +4,13 @@
 
 
 # Contents
-* [Alex The Analysis](./Alex\_The\_Analysis/content.md)
+* [Alex The Analysis](./Alex_The_Analysis/content.md)
+* [Ease With Data-Zero to Hero](./Ease_With_Data-Zero_to_Hero/content.md)
 
 # Configuration with GitHub
 
 Go to **Setting -> Applications (Integrations)**
-![install\_databricks\_apps.png](https://github.com/progressivepull/Resources/blob/main/Databricks/install\_databricks\_apps.png)
+![install_databricks_apps.png](https://github.com/progressivepull/Resources/blob/main/Databricks/install\_databricks\_apps.png)
 
 [How to Integrate Databricks with GitHub Repos (Git Folders) | Step-by-Step Tutorial](https://www.youtube.com/watch?v=uljYTx7nzy8)
 
